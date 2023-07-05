@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Application</name>
+   <tag></tag>
+   <elementGuidId>b4b94688-bcaa-46a0-a36f-1d418a92576c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='modulenav5']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#modulenav5 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc1bb5fd-6db8-4234-8382-78eec63cbfbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>manageapp.jsp?</value>
+      <webElementGuid>dfd7e3d8-c5a4-402d-ac19-d1c628392f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Application</value>
+      <webElementGuid>18e36aff-c1e0-4393-a80c-7fec54fd30d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modulenav5&quot;)/a[1]</value>
+      <webElementGuid>6635989b-9f78-47be-8d78-98e0dd81d92a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='modulenav5']/a</value>
+      <webElementGuid>f36b7967-9556-4d70-8ff9-6ad5da8a9394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Application')]</value>
+      <webElementGuid>4597f7d2-8116-4e84-af13-c96dee328e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::a[1]</value>
+      <webElementGuid>9663a575-d9fc-4e5f-9c02-44a8128ab8b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilities'])[1]/following::a[2]</value>
+      <webElementGuid>c8405300-bb3f-4571-85c4-e9b493fd4699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Roles'])[1]/preceding::a[1]</value>
+      <webElementGuid>0eeeba37-71b2-4151-9107-d358c71d3f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Parameters'])[1]/preceding::a[2]</value>
+      <webElementGuid>41fd34f7-1971-4b64-8edb-2f21a04003ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Application']/parent::*</value>
+      <webElementGuid>224a850f-f795-4782-bf08-4109e4ba20d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'manageapp.jsp?')]</value>
+      <webElementGuid>03eadfa0-2d41-4d2f-8f15-5637e9fbd7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a</value>
+      <webElementGuid>4291d65b-db39-4d73-9688-9bc1072093aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'manageapp.jsp?' and (text() = 'Manage Application' or . = 'Manage Application')]</value>
+      <webElementGuid>aaf05f37-36bc-481f-904f-3e7f9ca3c533</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
